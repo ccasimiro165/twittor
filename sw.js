@@ -11,7 +11,7 @@ const DYNAMIC_CACHE_LIMIT = 50;
 
 //Corazon de la app, archivos estaticos
 const APP_SHELL =[
-    '/',
+    /* '/', */
     'index.html',
     'css/style.css',
     'img/favicon.ico',
